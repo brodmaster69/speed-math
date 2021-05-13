@@ -1,0 +1,10 @@
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.csprojAssemblyReference.cache
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.Properties.Resources.resources
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.csproj.GenerateResource.cache
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\bin\Debug\Math.exe.config
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\bin\Debug\Math.exe
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\bin\Debug\Math.pdb
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.frmMain.resources
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.exe
+C:\Users\Small Pepe Man\Desktop\holy shit evit suck ball\Math\obj\Debug\Math.pdb
